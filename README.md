@@ -11,5 +11,6 @@ This repository contains my C++ programming practice programs.
 ## Language
 - C++
 
-## Goal
-To improve my programming and problem-solving skills through regular practice.
+## purpose
+college practicals
+
